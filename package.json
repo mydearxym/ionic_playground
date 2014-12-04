@@ -2,7 +2,10 @@
   "name": "Rscloud",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "cordova": "~4.1.2"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "glob": "~4.0.5",
